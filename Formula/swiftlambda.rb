@@ -13,3 +13,4 @@ class Swiftlambda < Formula
   test do
     system "#{bin}/swiftlambda" "--help"
   end
+end
