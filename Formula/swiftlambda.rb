@@ -1,14 +1,9 @@
-# Documentation: https://docs.brew.sh/Formula-Cookbook
-#                https://rubydoc.brew.sh/Formula
-# PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class Swiftlambda < Formula
   desc "AWS Lambda Swift functions made easy"
   homepage "https://github.com/melonamin/swiftlambda"
-  url "https://github.com/melonamin/swiftlambda.git"
-  version "0.1.0"
-  sha256 "3d77e89fd7ecdb5595637fcc1434e4482b686c79"
-  license "MIT License"
-
+  url "https://github.com/melonamin/swiftlambda.git", :tag => "0.1.0", :revision => "3d77e89fd7ecdb5595637fcc1434e4482b686c79"
+    head "https://github.com/melonamin/swiftlambda.git", :shallow => false
+  
   depends_on :xcode => ["12.0", :build]
 
  def install
@@ -16,5 +11,5 @@ class Swiftlambda < Formula
   end
 
   test do
-    system "#{bin}/swiftlambda""
+    system "#{bin}/swiftlambda" "--help"
   end
