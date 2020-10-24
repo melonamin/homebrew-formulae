@@ -1,4 +1,4 @@
-cask "shuttle" do
+cask "esse" do
     version "2020.5"
     sha256 "7beb29c883ebf74e3e8a6963613245ced1189067"
   
