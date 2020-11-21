@@ -1,5 +1,5 @@
 cask "esse" do
-    version "v1.0.0"
+    version "v1.0"
     sha256 :no_check
   
     url "https://github.com/swiftbar/SwiftBar/releases/download/#{version}/SwiftBar.app.zip"
