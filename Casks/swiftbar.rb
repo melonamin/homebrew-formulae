@@ -1,4 +1,4 @@
-cask "esse" do
+cask "SwiftBar" do
     version "v1.0.0"
     sha256 :no_check
   
