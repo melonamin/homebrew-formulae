@@ -1,4 +1,4 @@
-cask "SwiftBar" do
+cask "swiftbar" do
     version "v1.0.0"
     sha256 :no_check
   
