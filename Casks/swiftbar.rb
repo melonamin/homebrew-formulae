@@ -5,8 +5,8 @@ cask "swiftbar" do
     url "https://github.com/swiftbar/SwiftBar/releases/download/#{version}/SwiftBar.zip"
     appcast "https://github.com/swiftbar/SwiftBar/releases.atom"
     name "SwiftBar"
-    desc "Powerful macOS menu bar customization tool."
-    homepage "https://swiftbar.app"
+    desc "Powerful macOS menu bar customization tool"
+    homepage "https://swiftbar.app/"
   
     app "SwifBar.app"
   
