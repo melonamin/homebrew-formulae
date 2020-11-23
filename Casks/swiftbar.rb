@@ -8,6 +8,5 @@ cask "swiftbar" do
     desc "Powerful macOS menu bar customization tool"
     homepage "https://swiftbar.app/"
   
-    app "SwifBar.app"
-  
-  end
+    app "SwiftBar.app" 
+end
