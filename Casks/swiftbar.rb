@@ -1,6 +1,6 @@
 cask "swiftbar" do
-    version "v1.0.0"
-    sha256 "ead86964c043ee80b4b0b73f70d137ec46a299d014e6d185aa19a70f9c1d2b53"
+    version "v1.0.1"
+    sha256 "d9747e26b522e7fa1e7d136a3cd1eacb72b11cad47e9adfe95498ff3675fe424"
   
     url "https://github.com/swiftbar/SwiftBar/releases/download/#{version}/SwiftBar.zip"
     appcast "https://github.com/swiftbar/SwiftBar/releases.atom"
