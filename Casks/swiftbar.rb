@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "swiftbar" do
-  version "v1.2.1"
-  sha256 "5f662046811f932f9ce6340110bdebb7bfd6baaa795eb5ceb66dcf7e9a40f36c"
+  version "v1.2.3"
+  sha256 "d5201dc547111d3db934584e41e625d8a6ad2d4076d8db424fbf3c4aeec4ef79"
 
   url "https://github.com/swiftbar/SwiftBar/releases/download/#{version}/SwiftBar.zip",
       verified: "github.com/swiftbar/SwiftBar/releases/"
