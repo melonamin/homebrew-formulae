@@ -2,8 +2,8 @@
 # frozen_string_literal: true
 
 cask "trex" do
-    version "v1.4"
-    sha256 "8471fc810ac0c8084244b129c63898c2b9e0efe4c45197b7139d8dae5bcfafcf"
+    version "v1.4.1"
+    sha256 "e18a030af4b1037022736c12045a6eff8aa13b65201c9ef98d0a7f36d050dc36"
 
     url "https://github.com/amebalabs/TRex/releases/download/#{version}/TRex.zip",
         verified: "github.com/amebalabs/TRex/releases/"
