@@ -2,7 +2,7 @@ class Kefircli < Formula
   desc "Rich CLI for controlling KEF wireless speakers with interactive TUI"
   homepage "https://github.com/melonamin/KefirCLI"
   url "https://github.com/melonamin/KefirCLI/releases/download/v1.1.1/KefirCLI-v1.1.1.zip"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5"
+  sha256 "289cb043e93a1870bb72de8e196e70243b778fbbc56bf48b20e50f3703ee7eb6"
   license "MIT"
 
   livecheck do
