@@ -1,8 +1,8 @@
 class Try < Formula
   desc "Fresh directories for every vibe - manage your experiment directories with style"
   homepage "https://github.com/melonamin/try"
-  url "https://github.com/melonamin/try/releases/download/v0.1.0/try-macos-universal.zip"
-  sha256 "1dafe0ac4bd1c2a0a9262d8974a8cbd882661be2ee86560adf106982dd11a6b3"
+  url "https://github.com/melonamin/try/releases/download/v0.2.0/try-macos-universal.zip"
+  sha256 "75738fc9d43d1818471ba28376940a89048befe6ee1d48b218cd25a8db70187e"
   license "MIT"
 
   livecheck do
