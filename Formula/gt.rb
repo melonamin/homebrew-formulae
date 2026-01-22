@@ -1,8 +1,8 @@
 class Gt < Formula
   desc "Blazing fast TUI for managing Git worktrees with zero friction"
   homepage "https://github.com/melonamin/gt"
-  url "https://github.com/melonamin/gt/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "9772bcfb12b98382b8252ca318a6ee5747f9ca529303115f68f7f948a8861421"
+  url "https://github.com/melonamin/gt/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "f4ebecf8d161423beea72233e02ea566c006fcb584e3aa0112f0134d7af0a965"
   license "MIT"
   head "https://github.com/melonamin/gt.git", branch: "main"
 
